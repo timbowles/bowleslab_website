@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agroecology on Bowles Lab, UC Berkeley</title>
+    <link>/tags/agroecology/</link>
+    <description>Recent content in Agroecology on Bowles Lab, UC Berkeley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Timothy Bowles</copyright>
+    <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/agroecology/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Agroecological solutions for climate challenges</title>
+      <link>/project/agroecology-and-climate/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/agroecology-and-climate/</guid>
+      <description>&lt;p&gt;Water availability in California and across much of the world will become increasingly scarce and variable as climate change affects precipitation patterns and urban residents use more available water. We study the implications of these changes for crop productivity and environmental pollution, particularly how agroecological approaches can help address challenges.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

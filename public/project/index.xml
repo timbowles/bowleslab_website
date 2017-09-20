@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bowles Lab, UC Berkeley</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Bowles Lab, UC Berkeley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Timothy Bowles</copyright>
+    <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Agroecological solutions for climate challenges</title>
+      <link>/project/agroecology-and-climate/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/agroecology-and-climate/</guid>
+      <description>&lt;p&gt;Water availability in California and across much of the world will become increasingly scarce and variable as climate change affects precipitation patterns and urban residents use more available water. We study the implications of these changes for crop productivity and environmental pollution, particularly how agroecological approaches can help address challenges.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rhizosphere ecology</title>
+      <link>/project/rhizosphere-ecology/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/rhizosphere-ecology/</guid>
+      <description>&lt;p&gt;The rhizosphere is the hotspot of biological activity in and around plant roots. Addressing some of the biggest challenges in agricultural systems, such as enhancing nutrient and water cycling to improve resource use, depend on better understanding and management of rhizosphere processes. Arbuscular mycorrhizas (AM) are an ancient and near-ubiquitous association between plant roots and a specialized group of soil fungi that facilitate nutrient uptake and other functions in exchange for energy. We use a variety of approaches to study this symbiotic interaction &lt;em&gt;in situ&lt;/em&gt;, often using a tomato model system with paired AM and non-AM genotypes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Soil health and ecosystem services</title>
+      <link>/project/soil-health/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/soil-health/</guid>
+      <description>&lt;p&gt;Project description&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

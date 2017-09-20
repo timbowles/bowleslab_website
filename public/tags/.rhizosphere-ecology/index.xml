@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.Rhizosphere Ecology on Agroecology and Sustainable Agriculture Lab, UC Berkeley</title>
+    <link>/tags/.rhizosphere-ecology/</link>
+    <description>Recent content in .Rhizosphere Ecology on Agroecology and Sustainable Agriculture Lab, UC Berkeley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Timothy Bowles</copyright>
+    <lastBuildDate>Tue, 29 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/.rhizosphere-ecology/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rhizosphere ecology</title>
+      <link>/project/rhizosphere-ecology/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/rhizosphere-ecology/</guid>
+      <description>&lt;p&gt;The rhizosphere is the hotspot of biological activity in and around plant roots. Addressing some of the biggest challenges in agricultural systems, such as enhancing nutrient and water cycling to improve resource use, depend on better understanding and management of rhizosphere processes. Arbuscular mycorrhizas (AM) are an ancient and near-ubiquitous association between plant roots and a specialized group of soil fungi that facilitate nutrient uptake and other functions in exchange for energy. We use a variety of approaches to study this symbiotic interaction &lt;em&gt;in situ&lt;/em&gt;, often using a tomato model system with paired AM and non-AM genotypes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

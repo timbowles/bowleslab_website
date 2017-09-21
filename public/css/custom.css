@@ -430,7 +430,7 @@ article {
 }
 
 .article-title {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .article-title a {
@@ -508,7 +508,7 @@ article {
 }
 
 .pub-banner {
-  max-width: 100%;
+  max-width: 600px;
   height: auto;
   margin-left: auto;
   margin-right: auto;

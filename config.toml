@@ -1,4 +1,4 @@
-# End your URL with a `/` trailing slash.
+baseurl="/"# End your URL with a `/` trailing slash.
 title = "Bowles Lab, UC Berkeley"
 copyright = "&copy; 2016 Timothy Bowles"
 theme = "hugo-academic"

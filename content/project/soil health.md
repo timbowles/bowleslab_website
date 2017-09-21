@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "Ncyclingscenarios.jpg"
+image = "KSOM.jpg"
 caption = "Results of on-farm approach for discovering the extent to which organic farmers could achieve both high yields and low potential for N losses (Bowles et al 2015, *PLoS ONE*)"
 
 +++

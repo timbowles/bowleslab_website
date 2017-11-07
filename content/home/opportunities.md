@@ -30,4 +30,3 @@ I am always interested in inquiries from potential postdocs with overlapping int
 
 ### Current openings in the lab
 * I will be looking for 1-2 PhD students lab during the Fall 2017 application cycle, to begin Fall 2018. See above for details and please email me if interested! I will get back to you within several days.
-* **I have an open a position for a postdoc in Agricultural and Soil Ecology!** For details and to apply, go [here](https://aprecruit.berkeley.edu/apply/JPF01502).

@@ -6,7 +6,7 @@ date = "2017-08-29"
 title = "Ansel Klein"
 
 # Project summary to display on homepage.
-summary = "Ansel is an ESPM Ph.D. student"
+summary = "Ansel is an ESPM Ph.D. student and NSF Fellow"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Klein-portrait.jpg"

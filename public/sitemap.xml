@@ -23,7 +23,25 @@
     
     <url>
     
+      <loc>/group_members/ansel-klein/</loc>
+      <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/group_members/coleman-rainey/</loc>
+      <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/group_members/maria-mooshammer/</loc>
       <lastmod>2017-08-29T00:00:00+00:00</lastmod>
     </url>
     
@@ -51,15 +69,6 @@
     <url>
     
       <loc>/project/soil-health/</loc>
-      <lastmod>2017-08-29T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/group_members/unknown-person/</loc>
       <lastmod>2017-08-29T00:00:00+00:00</lastmod>
     </url>
     
@@ -188,16 +197,6 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2017-08-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/gradstudent/</loc>
       <lastmod>2017-08-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -209,6 +208,16 @@
     <url>
     
       <loc>/group_members/</loc>
+      <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/postdoc/</loc>
       <lastmod>2017-08-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

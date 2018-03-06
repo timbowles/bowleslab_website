@@ -3,17 +3,17 @@
 date = "2017-08-29"
 
 # Project title.
-title = "Your name here??"
+title = "Ansel Klein"
 
 # Project summary to display on homepage.
-summary = "I am currently seeking a postdoc and graduate student. Please see opportunities below."
+summary = "Ansel is an ESPM Ph.D. student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "questionmark.jpg"
+image_preview = "Klein-portrait.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["people"]`
-tags = ["deep-learning"]
+tags = ["gradstudent"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,9 +23,12 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "Klein-fieldwork1.jpg"
 caption = ""
 
 +++
 
-Person description
+My research interests lie at the intersection of soil science, agroecology, and spatial science.
+Using quantitative biogeochemical approaches and social science research methods, I seek to
+link how specific management regimes of organic farmers in Yolo County, California reflect measured and
+perceived impacts to on-farm soil health.

@@ -14,7 +14,7 @@ weight = 7
 
 +++
 
-I will be teaching two courses in 2018:
+I am teaching two courses in 2018:
 
 - Spring - ESPM 15: Introduction to Environmental Sciences (co-taught with [Allen Goldstein](https://nature.berkeley.edu/ahg/)) 
 - Fall - ESPM 118: Agricultural Ecology

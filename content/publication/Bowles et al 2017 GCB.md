@@ -5,7 +5,7 @@ date = "2017-09-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "Global Change Biology, accepted"
+publication = "Global Change Biology"
 publication_short = ""
 selected = true
 title = "Mycorrhizal fungi enhance plant nutrient acquisition and modulate nitrogen loss with variable water regimes"
@@ -14,7 +14,7 @@ url_project = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "bowles2017gcb.jpg"
+image = ""
 caption = ""
 
 +++

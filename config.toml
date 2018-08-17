@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Timothy Bowles"
-  role = "Assistant Professor of Agroecology and Sustainable Agriculture"
+  role = "Assistant Professor of Agroecology and Sustainable Agricultural Systems"
   organization = "Department of Environmental Science, Policy, and Management, University of California Berkeley"
   organization_url = "https://ourenvironment.berkeley.edu/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)

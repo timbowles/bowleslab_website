@@ -28,8 +28,7 @@ caption = ""
 
 +++
 Soils harbor enormous biodiversity. We are just beginning to understand how soil organisms and
-their diversity contribute to the functioning of ecosystems. Moreover, evidence is increasing that
-human soil management can have adverse effects on soil biological communities and,
+their diversity contribute to the functioning of ecosystems. Moreover, evidence is increasing that human soil management can have adverse effects on soil biological communities and,
 potentially, also the functions they provide.
 
 My research focusses on disentangling the complex relationships between agricultural
@@ -42,7 +41,6 @@ potential of the different members of soil biological communities and to assess 
 functional implications change under different management systems.
 
 While my research covers a range of different soil organisms, I particularly focus on plant
-symbiotic arbuscular mycorrhizal fungi, their interactions with the wider soil food web and how
-these affect nutrient use efficiency and crop nutrition in agricultural systems.
+symbiotic arbuscular mycorrhizal fungi, their interactions with the wider soil food web and how these affect nutrient use efficiency and crop nutrition in agricultural systems.
 
 [Franz's Google Scholar profile](https://scholar.google.ch/citations?user=JSPnu1EAAAAJ&hl=en)

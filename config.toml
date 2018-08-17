@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "timothy.bowles@berkeley.edu"
-  address = "Wellman 319, UC Berkeley, Berkeley, CA 94720"
+  address = "216 Wellman Hall, UC Berkeley, Berkeley, CA 94720"
   office_hours = "Email for appointment"
   telegram = ""
 
